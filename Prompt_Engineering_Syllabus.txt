@@ -1,0 +1,96 @@
+Prompt Engineering Syllabus – Plain Text Version
+================================================
+
+This syllabus is designed for beginners progressing to advanced prompt‑engineering skills. Each module can be treated as a week of study (≈ 6–8 hours total: 3–4 hours theory + 3–4 hours practice). Feel free to adapt pacing.
+
+---------------------------------------------------------------------
+MODULE 1 – INTRODUCTION TO PROMPT ENGINEERING
+• Focus : What is a prompt? Tokens, temperature, top-p, completions
+• Outcome : Understand core prompting terms and model behavior
+• Project : Write a simple “Hello AI” prompt; try different temperatures
+• Reference : OpenAI documentation
+
+---------------------------------------------------------------------
+MODULE 2 – AI & LANGUAGE MODELS FOR BEGINNERS
+• Focus : What is AI? What are language models? Tokens and responses
+• Outcome : Explain how ChatGPT-type models work (non-technical)
+• Project : Use a prompt to explain a topic in two different styles
+• Reference : Beginner AI explainers (e.g. OpenAI, Anthropic)
+
+---------------------------------------------------------------------
+MODULE 3 – TYPES OF PROMPTS
+• Focus : Open-ended, instructional, Q&A, zero-shot, few-shot
+• Outcome : Choose the right prompt structure for a task
+• Project : Redesign one task using each prompt type and compare results
+
+---------------------------------------------------------------------
+MODULE 4 – CRAFTING EFFECTIVE PROMPTS
+• Focus : Clarity, specificity, context, tone
+• Outcome : Improve vague prompts; balance tone and output length
+• Project : Rewrite a poor prompt 3 ways; measure improvement
+
+---------------------------------------------------------------------
+MODULE 5 – CHAIN OF THOUGHT TECHNIQUES
+• Focus : Step-by-step prompting; “Let’s think step by step”
+• Outcome : Trigger reasoning in complex outputs
+• Project : Solve a riddle with and without step-by-step prompt
+
+---------------------------------------------------------------------
+MODULE 6 – ROLE-PLAYING & PERSONA PROMPTS
+• Focus : Framing the AI as a character or expert
+• Outcome : Create structured prompts with distinct roles
+• Project : Craft a tech-support persona and a marketing persona
+
+---------------------------------------------------------------------
+MODULE 7 – ITERATIVE & SELF-REFINING PROMPTING
+• Focus : Reflexion, self-critique loops, re-prompting
+• Outcome : Make AI revise or rate its own answers
+• Project : Build a summarizer that improves with feedback
+
+---------------------------------------------------------------------
+MODULE 8 – FUNCTION CALLING & STRUCTURED OUTPUTS
+• Focus : JSON mode, schema output, tool invocation
+• Outcome : Enforce formats or call API-like functions from LLM
+• Project : Create a weather app using structured LLM output
+
+---------------------------------------------------------------------
+MODULE 9 – RETRIEVAL AUGMENTED GENERATION (RAG)
+• Focus : Bring external knowledge into LLM prompts
+• Outcome : Understand chunking, context injection, document Q&A
+• Project : Build a PDF-based assistant with RAG
+
+---------------------------------------------------------------------
+MODULE 10 – PROMPT SECURITY & LIMITATIONS
+• Focus : Prompt injection, jailbreaks, hallucinations
+• Outcome : Recognize vulnerabilities and mitigation strategies
+• Project : Test for weaknesses; redesign prompt for safety
+
+---------------------------------------------------------------------
+MODULE 11 – MULTIMODAL PROMPTING
+• Focus : Images + text, audio + text, bounding boxes, description
+• Outcome : Use visual + verbal inputs effectively
+• Project : Caption an image; request edits from LLM
+
+---------------------------------------------------------------------
+MODULE 12 – AGENTIC WORKFLOWS
+• Focus : Memory, planning, tool use, multi-step task execution
+• Outcome : Chain prompts with conditional logic or feedback
+• Project : Build a code assistant that iterates with error handling
+
+---------------------------------------------------------------------
+MODULE 13 – PROMPT OPTIMIZATION & EVALUATION
+• Focus : Eval frameworks, output scoring, CI integration
+• Outcome : Build pipelines to test and grade prompts
+• Project : Run A/B test on prompt variants using PromptFoo or Helicone
+
+---------------------------------------------------------------------
+MODULE 14 – DOMAIN-SPECIFIC PROMPTING
+• Focus : Legal, healthcare, education, finance, coding
+• Outcome : Apply prompting principles to expert fields
+• Project : Create a compliant prompt for legal or financial task
+
+---------------------------------------------------------------------
+MODULE 15 – FINAL PROJECT
+• Focus : Integrate everything in a polished prompt app
+• Outcome : Build a real-world use case, e.g., chatbot, Q&A tool, agent
+• Project : Deliver a complete AI assistant with interface and eval setup
