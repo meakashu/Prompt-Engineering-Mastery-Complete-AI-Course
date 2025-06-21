@@ -48,7 +48,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at:
 
-- **Email**: akash@dilwado.com
+- **Email**: meakash22dotin@gmail.com
 - **GitHub Issues**: Report through GitHub Issues with the `conduct` label
 - **Discord**: Contact moderators in our community server
 
@@ -172,6 +172,6 @@ For answers to common questions about this code of conduct, see the FAQ at https
 
 **Thank you for helping us create a welcoming and inclusive community for everyone!**
 
-*Last updated: December 2024*  
+*Last updated: December 2025*  
 *Version: 2.0*  
 *Next review: March 2025* 
